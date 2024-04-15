@@ -47,10 +47,10 @@ kadirbelkuyu/supabase is built on the following main stack:
 - [Prettier](https://prettier.io/) – Code Review
 - [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
 - [Vector](https://github.com/Netflix/vector) – Performance Monitoring
+- [Visual Studio Live Share](https://code.visualstudio.com/visual-studio-live-share) – Realtime Code Collaboration
 - [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
 - [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 - [RealtimeApp](https://github.com/serverless-components/RealtimeApp) – Serverless / Task Processing
-- [STUDIO](https://studio.design/) – No Code Platforms
 - [Stripe](https://stripe.com) – Payment Services
 - [cURL](http://curl.haxx.se/) – File Transfer
 - [iDoneThis](https://idonethis.com/) – Team Task Management
@@ -117,10 +117,10 @@ kadirbelkuyu/supabase is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png' alt='Sentry'/> [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
 - <img width='25' height='25' src='https://img.stackshare.io/service/2912/vector.png' alt='Vector'/> [Vector](https://github.com/Netflix/vector) – Performance Monitoring
+- <img width='25' height='25' src='https://img.stackshare.io/service/7894/jEKFRPKV_400x400.jpg' alt='Visual Studio Live Share'/> [Visual Studio Live Share](https://code.visualstudio.com/visual-studio-live-share) – Realtime Code Collaboration
 - <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/10738/serverless-RealtimeApp-logo.png' alt='RealtimeApp'/> [RealtimeApp](https://github.com/serverless-components/RealtimeApp) – Serverless / Task Processing
-- <img width='25' height='25' src='https://img.stackshare.io/service/12111/EMi6zrFB_400x400.jpg' alt='STUDIO'/> [STUDIO](https://studio.design/) – No Code Platforms
 - <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
 - <img width='25' height='25' src='https://img.stackshare.io/service/6552/curl-logo.png' alt='cURL'/> [cURL](http://curl.haxx.se/) – File Transfer
 - <img width='25' height='25' src='https://img.stackshare.io/service/338/default_f863a3d7f927a74d6ae21e8e152265bd07ca6cfe.png' alt='iDoneThis'/> [iDoneThis](https://idonethis.com/) – Team Task Management
@@ -423,7 +423,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (20)
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (21)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'>
@@ -566,6 +566,14 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/7894/jEKFRPKV_400x400.jpg' alt='Visual Studio Live Share'>
+  <br>
+  <sub><a href="https://code.visualstudio.com/visual-studio-live-share">Visual Studio Live Share</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'>
   <br>
   <sub><a href="https://vitejs.dev/">Vite</a></sub>
@@ -592,20 +600,12 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/hosting.svg'/> Hosting (2)
+## <img src='https://img.stackshare.io/hosting.svg'/> Hosting (1)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/10738/serverless-RealtimeApp-logo.png' alt='RealtimeApp'>
   <br>
   <sub><a href="https://github.com/serverless-components/RealtimeApp">RealtimeApp</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/12111/EMi6zrFB_400x400.jpg' alt='STUDIO'>
-  <br>
-  <sub><a href="https://studio.design/">STUDIO</a></sub>
   <br>
   <sub></sub>
 </td>
