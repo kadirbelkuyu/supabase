@@ -2,7 +2,7 @@ repo_name: kadirbelkuyu/supabase
 report_id: 1ded45e3522bdeb3094521208aef848c
 version: 0.1
 repo_type: Public
-timestamp: '2024-04-15T07:33:38+00:00'
+timestamp: '2024-04-15T07:38:50+00:00'
 requested_by: kadirbelkuyu
 provider: github
 branch: master
@@ -633,6 +633,18 @@ tools:
   detection_source: docker/docker-compose.yml
   last_updated_by: Qiao Han
   last_updated_on: 2023-09-07 13:49:07.000000000 Z
+- name: Visual Studio Live Share
+  description: Real-time collaborative development
+  website_url: https://code.visualstudio.com/visual-studio-live-share
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Realtime Code Collaboration
+  image_url: https://img.stackshare.io/service/7894/jEKFRPKV_400x400.jpg
+  detection_source_url: https://github.com/kadirbelkuyu/supabase/blob/master/docker/docker-compose.yml
+  detection_source: docker/docker-compose.yml
+  last_updated_by: Copple
+  last_updated_on: 2023-10-31 07:17:59.000000000 Z
 - name: Vite
   description: Native-ESM powered web dev build tool
   website_url: https://vitejs.dev/
@@ -684,18 +696,6 @@ tools:
   detection_source: docker/docker-compose.yml
   last_updated_by: Filipe Cabaço
   last_updated_on: 2023-11-17 18:23:10.000000000 Z
-- name: STUDIO
-  description: Design, Collaborate, Publish without coding
-  website_url: https://studio.design/
-  open_source: false
-  hosted_saas: false
-  category: Application Hosting
-  sub_category: No Code Platforms
-  image_url: https://img.stackshare.io/service/12111/EMi6zrFB_400x400.jpg
-  detection_source_url: https://github.com/kadirbelkuyu/supabase/blob/master/docker/docker-compose.yml
-  detection_source: docker/docker-compose.yml
-  last_updated_by: Jeffrey Hugh
-  last_updated_on: 2023-01-26 16:45:33.000000000 Z
 - name: Stripe
   description: Payments for developers
   website_url: https://stripe.com
